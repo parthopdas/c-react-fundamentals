@@ -13,3 +13,6 @@
 -  npm run eject
    > Removes this tool and copies build dependencies, configuration files
    > and scripts into the app directory. If you do this, you can’t go back!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI2OTU3NDU5NV19
+-->
